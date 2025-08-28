@@ -59,7 +59,7 @@ A modern, professional trading chart application built with Next.js, KLineChart,
 
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
-
+   Demo Link:- [ https://bollinger-bands-demo.vercel.app/ ]
 ## 📁 Project Structure
 
 ```
@@ -210,3 +210,7 @@ For support and questions:
 Screenshot 2025-08-28 234126.png
 Screenshot 2025-08-28 231146.png
 Screenshot 2025-08-28 231147.png
+
+<img width="1915" height="813" alt="Screenshot 2025-08-28 231147" src="https://github.com/user-attachments/assets/9adf81a7-19fa-44c9-8f08-e8aa7b5d8158" />
+
+
