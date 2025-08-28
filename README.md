@@ -211,6 +211,7 @@ Screenshot 2025-08-28 234126.png
 Screenshot 2025-08-28 231146.png
 Screenshot 2025-08-28 231147.png
 
-<img width="1915" height="813" alt="Screenshot 2025-08-28 231147" src="https://github.com/user-attachments/assets/9adf81a7-19fa-44c9-8f08-e8aa7b5d8158" />
+<img width="1884" height="878" alt="Screenshot 2025-08-28 234126" src="https://github.com/user-attachments/assets/da18dcd9-5ae4-4ff8-9cd5-3a1357976f33" />
+
 
 
